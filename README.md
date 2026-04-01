@@ -1,7 +1,5 @@
 # FMCG-net-revenue-management-analysis
 Excel-based net revenue management analysis covering market share, profitability, promotions, and 2024 growth scenarios.
-# Net Revenue Management Analysis
-
 End-to-end Excel case study focused on **net revenue management (NRM)** for the shampoo category.  
 This project combines market data, internal sales data, profitability analysis, promotion assessment, and 2024 growth scenarios to support commercial decision-making.
 
@@ -17,7 +15,7 @@ The workbook analyzes how a shampoo business can grow revenue and profit by answ
 
 ## Files
 
-- `NET REVENUE MANAGEMENT ANALYSIS.xlsx` â€” main Excel model and analysis workbook
+- `NET REVENUE MANAGEMENT ANALYSIS.xlsx` main Excel model and analysis workbook
 
 ## Dataset Scope
 
@@ -56,11 +54,11 @@ The workbook uses external market data to evaluate:
 - category and subcategory dynamics
 
 ### 2. Internal profitability
-Internal SKU-level data is used to calculate:
+Internal Stock Keeping Unit-level data is used to calculate:
 
 - net sales
 - gross profit per unit
-- gross profit per SKU
+- gross profit per Stock Keeping Unit
 - gross margin
 - net sales contribution
 
@@ -100,10 +98,6 @@ Based on the workbook structure and the underlying data reviewed:
 - Pivot tables
 - Forecasting and scenario analysis
 - Revenue and profitability modeling
-
-## Notes
-
-Some derived cells in the workbook rely on Excel formulas that are not fully evaluated outside Excel, but the workbook structure, tabs, and core data tables were reviewed directly.
 
 ## Why this project matters
 
